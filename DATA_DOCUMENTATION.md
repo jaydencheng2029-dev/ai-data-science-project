@@ -47,5 +47,5 @@
 
 * **Missing Values in Eviction Metrics:**
  
-  * Court records only capture *formal legal filings*. They systematically omit informal displacement (e.g., illegal lockouts, landlord buyouts, self-evictions upon receiving informal verbal notices), resulting in conservative baseline counts of housing instability.
+  * Court records only capture formal legal filings. They systematically omit informal displacement (e.g., illegal lockouts, landlord buyouts, self-evictions upon receiving informal verbal notices), resulting in conservative baseline counts of housing instability.
   * Court fees and procedural requirements differ by state. In states with minimal court filing fees, landlords frequently use eviction court repeatedly as a routine rent-collection notice, inflating filing rates relative to actual physical displacements.
